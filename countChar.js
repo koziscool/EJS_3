@@ -12,4 +12,3 @@ var countBs = function(s) {
 };
 
 console.log(countChar("kakkerlak", "k"));
-
