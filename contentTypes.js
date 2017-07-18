@@ -20,3 +20,4 @@ types.forEach(function(type) {
     console.log("Raised error: " + e);
   }
 });
+
